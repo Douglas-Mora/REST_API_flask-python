@@ -5,7 +5,7 @@ Then, activate the venv. Locate the `activate.ps1` file, into .venv\Scripts\, co
     `C:\Users\Lenovo\Documents\Programming_Coding\REST_API_flask-python\.venv\Scripts\activate.ps1`
 
 *Install Flask*
-    `pip install flas`
+    `pip install flask`
 
 *To confirm the installation is correct, run...*
     `flask run`
